@@ -153,7 +153,7 @@
 										$ScriptFullPath = "$ScriptsDir\$($CompanyFolder.Name)\$($TechnologyFolder.Name)\$($ScriptFolder.Name)\$($Script.Name)"
 										$ScriptRootDir = "$ScriptsDir\$($CompanyFolder.Name)\$($TechnologyFolder.Name)\$($ScriptFolder.Name)"
 										$ScriptLogDir = "$ScriptsDir\$($CompanyFolder.Name)\$($TechnologyFolder.Name)\$($ScriptFolder.Name)\Logs"
-										$ScriptLogDirHTML = "D:\\Scripts\\$($CompanyFolder.Name)\\$($TechnologyFolder.Name)\\$($ScriptFolder.Name)\\Logs"
+										$ScriptLogDirHTML = "C:\\Scripts\\$($CompanyFolder.Name)\\$($TechnologyFolder.Name)\\$($ScriptFolder.Name)\\Logs"
 										
 										#Generate The Portlets For The Dashboard
 										
@@ -320,7 +320,7 @@
 																		#Determine Full Script Shared File Path
 																		$( 
 																			#Calculate The Shared File Script Path
-																			$ShareFilePath = "\\$Server\D`$\$($ScriptRootDir.Trim('D:\'))"
+																			$ShareFilePath = "\\$Server\C`$\$($ScriptRootDir.Trim('C:\'))"
 																			
 																			#Calculate Script Shared File Path Quering Current Server And Parsing Path
 																			If($ShareFilePath -ne $null)
