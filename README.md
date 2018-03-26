@@ -46,20 +46,23 @@ Most fields in this are self explainatory and all values must be at the top of t
 
 ## Demo
 Dashboard
-<img src="images/emoticons/cool.png" alt="hi" class="inline"/>
+<img src="img/demo/dashboard.png" alt="Dashboard" class="inline"/>
 
 Dashboard (With Filtering)
+<img src="img/demo/dashboard-filtered.png" alt="Dashboard" class="inline"/>
 
 View Code
+<img src="img/demo/script-view-code.png" alt="Dashboard" class="inline"/>
 
 Script Compliance Checking
+<img src="img/demo/script-compliance-validation.png" alt="Dashboard" class="inline"/>
 
 View Logs
-
+<img src="img/demo/script-view-logs.png" alt="Dashboard" class="inline"/>
 
 
 ## Credit
--Build On Top Of PowerShell Server, One Of The Greatest Free PowerShell Tools Ever. Credit To Yusuf [PoshServer](http://poshserver.net)
+-Build On Top Of PowerShell Server, One Of The Greatest Free PowerShell Tools Ever. Credit To Yusuf for [PoshServer](http://poshserver.net)
 
 
 
