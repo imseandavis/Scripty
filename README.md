@@ -1,5 +1,5 @@
 ## Introduction
-This repo contains the source code for a Powershell Self Documenting Library. If you've ever had a ton of powershell scripts and wanted to know about them at a glance, be able to sort through them, and look at logs all from one place. This is the project for you.
+This repo contains the source code for a Powershell Self Documenting Library. If you've ever had a ton of powershell scripts and wanted to know about them at a glance, be able to sort through them, and look at logs all from one place. This is the project for you. Now with more filtering and compliance options to ensure your scripts have the proper markup.
 
 ## Setup
 * Install [PoshServer](http://poshserver.net)
@@ -45,6 +45,17 @@ Most fields in this are self explainatory and all values must be at the top of t
 * Integrate The Code And Webserver Into A Single Click Deploy
 
 ## Demo
+Dashboard
+<img src="images/emoticons/cool.png" alt="hi" class="inline"/>
+
+Dashboard (With Filtering)
+
+View Code
+
+Script Compliance Checking
+
+View Logs
+
 
 
 ## Credit
